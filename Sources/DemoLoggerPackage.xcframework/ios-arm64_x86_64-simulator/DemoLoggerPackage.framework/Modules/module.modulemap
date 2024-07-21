@@ -1,0 +1,6 @@
+framework module DemoLoggerPackage {
+  umbrella header "DemoLoggerPackage.h"
+  export *
+
+  module * { export * }
+}
