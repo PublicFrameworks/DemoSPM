@@ -1,2 +1,2 @@
 # DemoSPM
-POC
+POC Project
